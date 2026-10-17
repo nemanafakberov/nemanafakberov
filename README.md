@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Manaf!
 
-🍏 Aspiring iOS Developer based in Baku, Azerbaijan  
+🍏 iOS Developer based in Baku, Azerbaijan  
 🎓 Winemaking & Food Safety background  
 🔎 Looking for an iOS Traineeship / Internship in Baku
 
