@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&text=Manaf%20Akberov&fontSize=40&fontAlignY=35&desc=Aspiring%20iOS%20Developer&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&text=Manaf%20Akberov&fontSize=40&fontAlignY=35&desc=%20iOS%20Developer&descAlignY=55" width="100%"/>
 
 ## 👋 Hi, I'm Manaf!
 
