@@ -2,11 +2,9 @@
 
 16x16 RGBA PNG item icons with a transparent background and hard pixels (alpha is 0 or 255 only).
 
-Each icon is a single brilliant-cut spirit gem:
-- a flat table on top;
-- a bright girdle;
-- a pavilion whose facets meet in a point at the bottom;
-- a glowing diagonal crack across the shaded side.
+Each icon is a dense spirit orb:
+- a round, dark body;
+- a glowing clockwise swirl inside it: an outer arm, a one-pixel gap, an inner ring and a bright core.
 
 The icon is lit from the upper left. Each icon uses its own 8-tone ramp. The ramps are built from Malum spirit textures, then hue-shifted and resaturated, so they are not copies of the spirit palettes.
 
@@ -25,7 +23,7 @@ The icon is lit from the upper left. Each icon uses its own 8-tone ramp. The ram
 | `spirit_concentrate_black.png` | umbral | umbral |
 | `spirit_concentrate_raspberry.png` | sacred, shifted toward red | arcane (or a custom variant) |
 | `spirit_concentrate_indigo.png` | wicked, shifted toward blue | eldritch (or a custom variant) |
-| `spirit_concentrate_mixed.png` | wicked, with cyan, pink and yellow crack inclusions | a generic or mixed concentrate |
+| `spirit_concentrate_mixed.png` | wicked body; the swirl passes through cyan, pink and yellow | a generic or mixed concentrate |
 
 ## Using them in a mod (Minecraft 1.21.1)
 
